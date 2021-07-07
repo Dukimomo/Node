@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"path": ".."
+		},
+		{
+			"name": "module",
+			"path": "..\\..\\sources\\04\\Jason Voorhees\\Project\\module"
+		}
+	],
+	"settings": {}
+}
